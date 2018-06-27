@@ -1,13 +1,12 @@
 {
-  "name": "Snippet",
+  "name": "no_js_alert",
   "version": "1.0.0",
-  "description": "Вывод сниппетов",
+  "description": "Уведомление об отключенном JavaScript",
   "author": "LiquidHub.ru",
   "type": "snippets",
-  "homepage": "https://github.com/insales-components/snippet",
+  "homepage": "https://github.com/insales-components/njs-alert",
   "props": {
-    "common": false,
-    "liquid": true
+    "common": false
   },
   "dependencies": {}
 }
